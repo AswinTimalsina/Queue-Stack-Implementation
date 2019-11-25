@@ -1,5 +1,0 @@
-move a over c
-discard c
-pile b over e
-discard c
-quit
